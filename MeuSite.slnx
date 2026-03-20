@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/portfolio-gabriel/">
+    <File Path="../../../Downloads/bg.png" />
+    <File Path="index.html" />
+    <File Path="script.js" />
+    <File Path="style.css" />
+  </Folder>
+  <Folder Name="/portfolio-gabriel/assets/" />
+  <Folder Name="/portfolio-gabriel/assets/img/">
+    <File Path="../../../Downloads/bg.png" />
+  </Folder>
+  <Folder Name="/portfolio-gabriel/assets/img/projetos/" />
+</Solution>
